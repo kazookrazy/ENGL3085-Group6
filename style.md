@@ -61,7 +61,7 @@ Example:
 Headings are based on traditional markdown headings with main topics in the largest size, the headings should get progressively smaller as the section gets more specific.All of these headings should be represented in the table of contents. 
 </information>
 
-###  Colored Headings
+###  Heading Color
 
 <information>
 
@@ -75,6 +75,54 @@ Headings are based on traditional markdown headings with main topics in the larg
 ##### Example Sub Heading 5
 ###### Example Sub Heading 6
 </information>
+
+
+## Table of Contents
+
+The table of contents should be ordered by the basic set up, followed by the rest of the contents in A-Z order with subheadings also noted. All of the sections should function as clickable links. 
+
+A Demonstration of a table of contents following this format. For the purpose of this demo the items are not clickable, and filled with generic options, as most of these are way out of the scope of the project
+
+
+# Getting Started
+- Requirements
+- Install 
+
+# Assembly and Composition
+- Combining Multiple Models
+- Creating Assemblies and Hierarchies
+- Joints and Constraints
+
+# Customization and Settings
+- Personalization Options
+- Preferences
+- Configuration Settings
+
+# Export
+- Exporting to Different File Formats
+
+# Import
+- Loading Existing 3D Models
+    
+# Model Manipulation
+- Translation, Rotation, and Scaling
+- Grouping and Ungrouping Objects
+- Mirroring and Symmetry
+
+# Sculpting
+- Using the add tool
+- Stretch
+
+# Texturing
+- Digital Sculpting Tools
+- Applying Materials and Textures
+- UV Mapping
+
+# Visualization and Rendering
+- Real-Time Preview
+- Lighting and Camera Setup
+- High-Quality Rendering
+
 
 # Styling
 
@@ -96,7 +144,7 @@ Colors are based upon the blender logo, to keep style consistency with the brand
 <span style="color: #e87d0d;">Orange</span> <span style="background-color: #e87d0d; color: #e87d0d;">  . . . . </span> 
 
 
-<span style="color:#265787;">Blue</span> <span style="background-color: #265787; color: #265787;">  . . . . </span> 
+<span style="color:#265787;">Blue</span> <span style="background-color: #265787; color: #265787;"> . . . . </span> 
 </information>
 
 
