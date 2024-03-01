@@ -133,6 +133,9 @@ Images should break the text and fill the sides, to make them more visibly seen 
 
 For images that are used to highlight menus, options a red (<span style="color: #ff0000;">#ff0000</span>) box should be placed around the necessary UI. The selected UI should follow standard default UI to avoid confusion.
 
+Example:
+![Banana render covered in cloth simulation](images/exampleBanana.png)
+
 </information>
 
 ## Color Pallette
@@ -151,4 +154,4 @@ Colors are based upon the blender logo, to keep style consistency with the brand
 
 ## Logos
 The following logo should be the used throughout.
-![Blender Logo](blender_logo.png) 
+![Blender Logo](images/blender_logo.png) 
