@@ -22,6 +22,12 @@ img {
     height: auto;
 }
 
+.icon {
+    style="display;
+     inline; height:15px; 
+     width:15px;"
+}
+
 </style>
 
 
