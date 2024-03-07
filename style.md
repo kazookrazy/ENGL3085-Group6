@@ -1,42 +1,17 @@
-<style>
-
-h1 {
-    color: #e87d0d;
-}
-
-h2, h3, h4, h5, h6 {
-    color: #265787;
-}
-
-p {
-    font-size: 12pt;
-    text-align: left;
-}
-
-information {
-    font-family: "Times New Roman", Times, serif;
-}
-
-img {
-    width: 100%;
-    height: auto;
-}
-
-</style>
-
+<link rel="stylesheet" href="style.css">
 
 # Text
 
 ## Body Text
 
-<information>
+<div class= "information">
 All body text should be left justified with 12 pt font throughout. With informational text signified by times new roman, and action text should be kept to arial
-</information>
+</div>
 
 ## Lists
 
-<information>
 
+<div class= "information">
 Lists can only be in the bulleted, and numbered formats. With smaller subsections of list items. Denoted a tab indent and a change in marking. 
 
 
@@ -53,17 +28,18 @@ Example:
   - More In depth 
     - Extremely In Depth
 
-</information>
+</div>
 
 ## Headings
 
-<information>
+<div class="information">
 Headings are based on traditional markdown headings with main topics in the largest size, the headings should get progressively smaller as the section gets more specific.All of these headings should be represented in the table of contents. 
-</information>
+</div>
 
 ###  Heading Color
 
-<information>
+
+<div class= "information">
 
 - Main headings should be orange. #e87d0d
 - Sub headings should be blue. #265787
@@ -74,7 +50,7 @@ Headings are based on traditional markdown headings with main topics in the larg
 #### Example Sub Heading 4
 ##### Example Sub Heading 5
 ###### Example Sub Heading 6
-</information>
+</div>
 
 
 ## Table of Contents
@@ -127,7 +103,8 @@ A Demonstration of a table of contents following this format. For the purpose of
 # Styling
 
 ## Images
-<information>
+
+<div class= "information">
 
 Images should break the text and fill the sides, to make them more visibly seen as a separate part of instructions. All images should also labeled to keep in line with accessibility concerns. (Note: image descriptions should not start with "Image of ..." or the like as screen readers used by the visibly impaired will already denote them as images.)
 
@@ -136,11 +113,11 @@ For images that are used to highlight menus, options a red (<span style="color: 
 Example:
 ![Banana render covered in cloth simulation](images/exampleBanana.png)
 
-</information>
+</div>
 
 ## Color Pallette
 
-<information>
+<div class= "information">
 
 Colors are based upon the blender logo, to keep style consistency with the brand logo of orange, and blue. The blues are to be kept to #265787,  and the oranges are to be kept to <span style="color: #e87d0d">#e87d0d. 
 
@@ -148,7 +125,7 @@ Colors are based upon the blender logo, to keep style consistency with the brand
 
 
 <span style="color:#265787;">Blue</span> <span style="background-color: #265787; color: #265787;"> . . . . </span> 
-</information>
+</div>
 
 
 

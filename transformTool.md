@@ -22,8 +22,27 @@ img {
     height: auto;
 }
 
+.icon {
+    style="display;
+     inline; height:15px; 
+     width:15px;"
+}
+
 </style>
 
+# Scaling Models
+<information>
+Below is a standard cube in the traditional blender project layout, in order to be able to manipulate the size of thè object it is best to move to the **Layout** Tab.
+</information>
+
+![Image of starter Basic Layout](images/basicCubeLayout.png)
+
+1. Selecting the object you wish to resize/move/rotate by clicking on it in the workspace, or clicking on its label in the scene layout pane. 
+2. Open the **Object** pane as denoted by a "<img src = "images\objectIcon.png" class="icon">".  
+3. ![Object Pane](images/objectPanedCollapsed.png) Select the **Transform** tab in the **Object** sub-menu.
+   - <information>The tranform menu is what enables you to precisely move, turn, and stretch an object. It is split into 3 sections *Location*, *Rotation*, and *Scale* with each of these menus split into *X*, *Y*, and *Z*. These are representative of the 3 traditional axis of a 3d plane in math. Modifying each of these options will affect the object relative to the plane. </information>
+
+![Transform Sub-Menu](images/transformMenu.png)
 
 # Industry standard sizings
 
@@ -37,11 +56,7 @@ When it comes time to build out a 3d model for a part often what comes up is how
 
 For the models 
 
-
-
 ## importing the models
-
-
 
 # Adding the models
 
