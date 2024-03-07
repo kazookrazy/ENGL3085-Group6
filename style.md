@@ -1,35 +1,4 @@
-<style>
-
-h1 {
-    color: #e87d0d;
-}
-
-h2, h3, h4, h5, h6 {
-    color: #265787;
-}
-
-p {
-    font-size: 12pt;
-    text-align: left;
-}
-
-information {
-    font-family: "Times New Roman", Times, serif;
-}
-
-img {
-    width: 100%;
-    height: auto;
-}
-
-.icon {
-    style="display;
-     inline; height:15px; 
-     width:15px;"
-}
-
-</style>
-
+<link rel="stylesheet" href="style.css">
 
 # Text
 
