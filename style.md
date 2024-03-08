@@ -12,7 +12,7 @@ All body text should be left justified with 12 pt font throughout. With informat
 
 
 <div class= "information">
-Lists can only be in the bulleted, and numbered formats. With smaller subsections of list items. Denoted a tab indent and a change in marking. 
+Lists can only be in the bulleted, and numbered formats. With smaller subsections of list items. Denoted a tab indent and a change in marking. Numbered formats are to be reserved for directions, and bulleted lists are to be reserved for information.
 
 
 Example:
@@ -108,7 +108,7 @@ A Demonstration of a table of contents following this format. For the purpose of
 
 Images should break the text and fill the sides, to make them more visibly seen as a separate part of instructions. All images should also labeled to keep in line with accessibility concerns. (Note: image descriptions should not start with "Image of ..." or the like as screen readers used by the visibly impaired will already denote them as images.)
 
-For images that are used to highlight menus, options a red (<span style="color: #ff0000;">#ff0000</span>) box should be placed around the necessary UI. The selected UI should follow standard default UI to avoid confusion.
+For images that are used to highlight menus options a red (<span style="color: #ff0000;">#ff0000</span>) box should be placed around the necessary UI. The selected UI should follow standard default UI to avoid confusion.
 
 Example:
 ![Banana render covered in cloth simulation](images/exampleBanana.png)
