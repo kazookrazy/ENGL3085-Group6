@@ -40,7 +40,20 @@ Once done with [setup](#setup), you can now add the boolean modifier to you shap
 
 ## Boolean Modes and how to view the modified shape
 Now that [setup](#setup) is complete and the [boolean modifier](#enabling-the-boolean-modifier) has been enabled, we are now ready to test and view each mode. We will start by figuring out how to view the modified shape.
-### Viewing the shape
+### Viewing the shape and Difference Mode
 Since the shape is now modified, it doesn't appear any different currently. This is because the object "Cube" is related to (Cube.001) is still visible. To turn it invisible, click the eye icon  <img src = "images/eye_icon.png" class="icon"> next to "Cube.001" in the **Scene Collection** window. If done correctly, you should see something like this:
 ![Cube.001 Invisible](images/cube001_invis.png)
-As you can see, "Cube" is now indented where "Cube.001" is! This is the result of the Difference mode for the Boolean modifier. The shape is now "Cube" minus "Cube.001", which results in what you see above.
+As you can see, "Cube" is now indented where "Cube.001" is! This is the result of the Difference mode for the Boolean modifier. The shape is now "Cube" minus "Cube.001" (Cube - Cube.001), which results in what you see above.
+### Union Mode
+To select Union Mode, simply select "Cube" (the larger cube) and go back to the **Modifiers** <img src = "images/modifierIcon.png" class="icon"> menu, and select the "Union" option in the Boolean Modifier you created.
+![Union Selected](images/union-selected.png)
+Under the Union Mode, it seems that "Cube.001" has reappeared. This is because the Union Mode displays anything that is "Cube" or "Cube.001" (Cube OR Cube.001).
+### Intersect Mode
+To select Intersect Mode, simply select "Cube" (the larger cube) and go back to the **Modifiers** <img src = "images/modifierIcon.png" class="icon"> menu, and select the "Intersect" option in the Boolean Modifier you created.
+![Intersect Selected](images/intersect-selected.png)
+Under the Intersect Mode, there is only a small object that remains. This is because the Intersect Mode displays anything that is in the intersection of "Cube" and "Cube.001" (Cube AND Cube.001).
+
+[<<Table of Contents](README.md)
+
+[Back to Top](#boolean-modifier)
+
