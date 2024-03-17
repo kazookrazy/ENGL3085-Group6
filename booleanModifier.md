@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 [<<Table of Contents](README.md)
 
 # Boolean Modifier
