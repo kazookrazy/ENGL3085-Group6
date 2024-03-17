@@ -3,4 +3,9 @@
 # ENGL3085-Group6
 Project that provides technical documentation for the use of Blender
 
-[Style Guide](style.md)
+## Table of Contents
+
+- [Rendering](rendering.md)
+- [Scaling Models](transformTool.md)
+- [Boolean Modifier](booleanModifier.md)
+- [Style Guide](style.md)
