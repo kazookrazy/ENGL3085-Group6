@@ -6,7 +6,7 @@ Project that provides technical documentation for the use of Blender
 ## Table of Contents
 
 - [Rendering](rendering.md)
-- [Scaling Models](transformTool.md)
+- [Scaling, Rotating, and Moving Objects (Transform Tool)](transformTool.md)
 - [Boolean Modifier](booleanModifier.md)
 - [Imports and Exports](import_export.md)
 - [Style Guide](style.md)
