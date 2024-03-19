@@ -38,10 +38,12 @@ Once done with [setup](#setup), you can now add the boolean modifier to you shap
 ![Modifier menu](images/cropped-modifier-menu.png)
 5. You now have a boolean modifier added to "Cube". Now you must relate "Cube" (your larger cube) to "Cube.001" (your smaller cube). To do this, in the modifier you created, click the "Object" field. Then select "Cube.001".
 ![Object submenu](images/select-obj-modifier.png)
-6. The two objects are now related! Now you can start creating specialize shapes.
+6. The two objects are now related! Now you can start creating specialized shapes.
 
 ## Boolean Modes and how to view the modified shape
 Now that [setup](#setup) is complete and the [boolean modifier](#enabling-the-boolean-modifier) has been enabled, we are now ready to test and view each mode. We will start by figuring out how to view the modified shape.
+
+**Please try each of the following:**
 ### Viewing the shape and Difference Mode
 Since the shape is now modified, it doesn't appear any different currently. This is because the object "Cube" is related to (Cube.001) is still visible. To turn it invisible, click the eye icon  <img src = "images/eye_icon.png" class="icon"> next to "Cube.001" in the **Scene Collection** window. If done correctly, you should see something like this:
 ![Cube.001 Invisible](images/cube001_invis.png)
@@ -55,7 +57,8 @@ To select Intersect Mode, simply select "Cube" (the larger cube) and go back to 
 ![Intersect Selected](images/intersect-selected.png)
 Under the Intersect Mode, there is only a small object that remains. This is because the Intersect Mode displays anything that is in the intersection of "Cube" and "Cube.001" (Cube AND Cube.001).
 
-[<<Table of Contents](README.md)
+After trying the different modes, you should have something similar to the last screenshot on your screen. This is the end of the tutorial! 
 
 [Back to Top](#boolean-modifier)
 
+[<<Table of Contents](README.md)
