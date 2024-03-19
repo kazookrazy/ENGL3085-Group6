@@ -5,6 +5,7 @@ Project that provides technical documentation for the use of Blender
 
 ## Table of Contents
 
+- [Basic Configuration](settingsConfiguration.md)
 - [Rendering](rendering.md)
 - [Scaling, Rotating, and Moving Objects (Transform Tool)](transformTool.md)
 - [Boolean Modifier](booleanModifier.md)
