@@ -8,4 +8,5 @@ Project that provides technical documentation for the use of Blender
 - [Rendering](rendering.md)
 - [Scaling Models](transformTool.md)
 - [Boolean Modifier](booleanModifier.md)
+- [Imports and Exports](import_export.md)
 - [Style Guide](style.md)

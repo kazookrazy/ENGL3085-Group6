@@ -6,11 +6,11 @@
 *Written by: Weston Johnson*
 
 ## Summary
-This tutorial demonstrates how to render a project in Blender. Rendering is taking a 3D model or animation, and outputting that to a 2D image. There are two major categories of rendering projects in blender, image based rendering, and animation based redering. Both will be covered in the tutorial.
+This tutorial demonstrates how to render a project in Blender. Rendering is taking a 3D model or animation, and outputting that to a 2D image. There are two major categories of rendering projects in blender, image based rendering, and animation based rendering. Both will be covered in the tutorial.
 - [Animation](#animation-rendering)
 - [Image Rendering](#image-rendering)
 
-This tutorial assumes that you have basic knowledge of [navigating the viewport](https://youtu.be/ILqOWe3zAbk?si=7SHFtHqRjD0HJ4d0), [UI](https://youtu.be/8XyIYRW_2xk?si=zj8Ny7yR1xVeKAYQ), and [selecting/transforming objects](https://youtu.be/hTL6AKR8YDs?si=xMJa8COjAnLb22Wz) in Blender.
+This tutorial assumes that you have basic knowledge of [navigating the viewport](https://youtu.be/ILqOWe3zAbk?si=7SHFtHqRjD0HJ4d0), and [UI](https://youtu.be/8XyIYRW_2xk?si=zj8Ny7yR1xVeKAYQ).
 
 ## Animation Rendering
 Rendering an animation will allow you to view individual frames of the finished animation. Animations are just series of images, or frames, that are played consecutively. Being able to analyze animations frame by frame can allow for detailed editing and can also provide a good way to spot any problems with your animation.
