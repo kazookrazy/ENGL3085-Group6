@@ -19,17 +19,17 @@ Rendering an animation will allow you to view individual frames of the finished 
    1. Add a camera object if you don't have one in the scene.
       - Click the **Add** button to reveal the drop down list of objects to add.
       - Click the **Camera** button to add a camera
-   ![Adding Camera To Scene](images/AddingCamera.png)
-   </br>
-   </br>
+      ![Adding Camera To Scene](images/AddingCamera.png)
+      </br>
+      </br>
    2. Right-click on the camera and select **Set Active Camera**
    3. Press n on your keyboard to open a view panel.
    4. Click the **view** tab to open the tab.
    5. Select **Camera to View**
       - This will lock the camera to your view so you can adjst the location and angle of the camera.
-   ![Setting Camera Angle](images/CameraAngle.png)
-   </br>
-   </br>
+      ![Setting Camera Angle](images/CameraAngle.png)
+      </br>
+      </br>
    6. Move the camera to your desired position and angle.
    7. Uncheck the **Camera to View** box when you are finished re-positioning the camera.
 3. Set your rendering options for your desired output
@@ -39,8 +39,8 @@ Rendering an animation will allow you to view individual frames of the finished 
    </br>
    2. Adjust the necessary settings in under the scenes rendering options.
       - This can take time and will be different for every scene you render for. Depending on the **Rendering Engine** you choose to use these settings control the sampling rate, noise, depth of field, blurs, and much more. For more information on the details of the rendering settings refer to the [Blender Documentation](https://docs.blender.org/manual/en/latest/render/index.html).
-   </br>
-   </br>
+      </br>
+      </br>
 
 4. Select the **Output Properties** tab from your list of properties.
    ![Output Properties](images/OutputProperties.png)
@@ -61,28 +61,28 @@ Rendering an image in blender will turn your 3D scene into a 2D image. This can 
    1. Add a camera object if you don't have one in the scene.
       - Click the **Add** button to reveal the drop down list of objects to add.
       - Click the **Camera** button to add a camera
-   ![Adding Camera To Scene](images/AddingCamera.png)
-   </br>
-   </br>
+      ![Adding Camera To Scene](images/AddingCamera.png)
+      </br>
+      </br>
    2. Right-click on the camera and select **Set Active Camera**
    3. Press n on your keyboard to open a view panel.
    4. Click the **view** tab to open the tab.
    5. Select **Camera to View**
       - This will lock the camera to your view so you can adjst the location and angle of the camera.
-   ![Setting Camera Angle](images/CameraAngle.png)
-   </br>
-   </br>
+      ![Setting Camera Angle](images/CameraAngle.png)
+      </br>
+      </br>
    6. Move the camera to your desired position and angle.
    7. Uncheck the **Camera to View** box when you are finished re-positioning the camera.
 3. Set your rendering options for your desired output
    1. Select the **Render Properties** tab from your list of properties.
-   ![Rendering Properties](images/RenderOptionsPane.png)
-   </br>
-   </br>
+      ![Rendering Properties](images/RenderOptionsPane.png)
+      </br>
+      </br>
    2. Adjust the necessary settings in under the scenes rendering options.
       - This can take time and will be different for every scene you render for. Depending on the **Rendering Engine** you choose to use these settings control the sampling rate, noise, depth of field, blurs, and much more. For more information on the details of the rendering settings refer to the [Blender Documentation](https://docs.blender.org/manual/en/latest/render/index.html).
-   </br>
-   </br>
+      </br>
+      </br>
 4. Select the **Output Properties** tab from your list of properties.
    ![Output Properties](images/OutputProperties.png)
    </br>
