@@ -14,7 +14,9 @@ This tutorial assumes that you have basic knowledge of [navigating the viewport]
 
 
 ## Importing Files
+<div class= "information">
 Importing an object to a blender scene is a big part of development and design. Importing can be used to collaborate with other developers on your team, or it can also be used to import from online sources you have access to. 
+</div>
 
 1. Open the project you want to import an object to. This can be a new project or an existing project.
 2. Click on the **File** button in the upper left hand corner for the drop-down.
@@ -34,7 +36,9 @@ Importing an object to a blender scene is a big part of development and design. 
 7. The object that you import will be highlighted automatically when it finishes importing.
 
 ## Exporting Files
+<div class= "information">
 Exporting a blender scene or object to a file is an essential part of development and design in blender. In many circumstances, you will use an exported file as method of producing a final product. STL files are a common file used in 3D models for manufacturing purposes i.e. 3D printing, CNC models. 
+</div>
 
 1. Open the project you want to export from. The project can contain more than just the object you want to export.
 2. Select all of the objects on the right hand side in the scene collections area that are used in creating the object you want to export. NOTE: If you export without anything selected, Blender will export everything in the blender project including objects that are hidden.
