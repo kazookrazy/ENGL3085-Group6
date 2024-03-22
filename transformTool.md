@@ -25,11 +25,9 @@ To select the move you can click the <img class="icon" src="images/moveToolIcon.
 ### Quickly Moving an object
 
 <div class="information">
-To quickly move an object in a scene, this can be done by grabbing the circle in the center of an object and then sliding the object to the desired postion. 
+To quickly move an object in a scene, this can be done by grabbing the circle in the center of an object and then sliding the object to the desired position. 
 
 </div>
-
-
 
 
 ### Moving Along An axis
@@ -45,34 +43,54 @@ In order to move an object exclusively across a single axis you can simply grab 
 
 
 ## Rotating <img class="icon" src="images/rotateToolIcon.png" alt="rotate Icon">
-*The rotate tool allows you to change the orientation of objects in your scene.*
+<div class="information">
+The rotate tool allows you to change the orientation of objects in your scene.*
 
 ### Selecting the rotate tool
 To select the rotate tool, you can click the <img class="icon" src="images/rotateToolIcon.png" alt="rotate Icon"> location in the left toolbar, or press 'Shift+Space' followed by 'R'.
 
 ### Quickly Rotating an object
-*To quickly rotate an object in a scene, you can grab the circle in the center of an object and then drag to rotate it around its pivot point.*
+<div class="information">
+To quickly rotate an object in a scene, you can grab the circle in the center of an object and then drag to rotate it around its pivot point.</div>
 
 ### Rotating Around an Axis
-*To rotate an object around a specific axis, you can grab the corresponding arc representing that axis and then drag to rotate it around that axis. (Blue for the Z axis, Green for the Y axis, and Red for the X axis).*
+<div class="information">
+
+To rotate an object around a specific axis, you can grab the corresponding arc representing that axis and then drag to rotate it around that axis. (Blue for the Z axis, Green for the Y axis, and Red for the X axis).
+
+</div>
 ![Arcs of a rotate tool](images/rotateToolArcs.png)
 
 ## Scaling  <img class="icon" src="images/scaleToolIcon.png">
-*The scale tool allows you to resize objects in your scene.*
+<div class="information">
+The scale tool allows you to resize objects in your scene.</div>
 
 ### Selecting the scale tool
 To select the scale tool, you can click the <img class="icon" src="images/scaleToolIcon.png"> location in the left toolbar, or press 'Shift+Space' followed by 'S'.
 
 ### Quickly Scaling an object
-*To quickly scale an object in a scene, you can grab the square in the center of an object and then drag to resize it proportionally.*
+<div class="information">
+To quickly scale an object in a scene, you can grab the square in the center of an object and then drag to resize it proportionally.</div>
 
 ### Scaling Along an Axis
-*To scale an object along a specific axis, you can grab the corresponding handle representing that axis and then drag to scale it along that axis. (Blue for the Z axis, Green for the Y axis, and Red for the X axis).*
+<div class="information">
+To scale an object along a specific axis, you can grab the corresponding handle representing that axis and then drag to scale it along that axis. (Blue for the Z axis, Green for the Y axis, and Red for the X axis).</div>
 ![Handles of a scale tool](images/scaleToolArrows.png)
 
 
+## Free Transform <img class="icon" src="images\freeTransformIcon.png" alt="Free Transform Icon"> 
+<div class="information">
+The free transform tool combines the functionalities of moving, rotating, and scaling into one tool for versatile manipulation of objects.</div>
+
+### Selecting the free transform tool
+To select the free transform tool, you can click the  <img class="icon" src="images\freeTransformIcon.png" alt="Free Transform Icon"> location in the left toolbar, or press 'Shift+Space' followed by 'F'.
+
+### Using the free transform tool
+<div class="information">
+The free transform tool allows you to move, rotate, and scale objects simultaneously. Simply click and drag anywhere on the object to perform a free transformation.</div>
 
 
+![Free Transform](images/freeTransformControls.png)
 
 
 # Transforming an object with Precision
