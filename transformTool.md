@@ -1,5 +1,8 @@
 <link rel="stylesheet" href="style.css">
 
+
+[<<Table of Contents](README.md)
+
 ## Overview
 
 One of the most common things you will have to do is precisely placing and moving objects for your projects, because blender is a 3d software there are a variety of ways to do this. 
@@ -11,7 +14,11 @@ One of the most common things you will have to do is precisely placing and movin
 # Selecting the Object
 First Begin by selecting the object you wish to resize/move/rotate by clicking on it in the workspace, or clicking on its label in the scene layout pane the
 
+
+
 # Quickly Transforming an Object
+
+
 
 ## Moving <img class="icon" src="images/moveToolIcon.png">
 <div class="information">
@@ -19,15 +26,23 @@ The move tool is often the defacto way to quickly shift where are objects are in
 </div>
 
 
+
+
 ### Selecting the move tool. 
 To select the move you can click the <img class="icon" src="images/moveToolIcon.png"> location in the left toolbar, or press 'Shift+Space' followed by 'G'.
 
+
+
 ### Quickly Moving an object
+
+
 
 <div class="information">
 To quickly move an object in a scene, this can be done by grabbing the circle in the center of an object and then sliding the object to the desired position. 
 
 </div>
+
+
 
 
 ### Moving Along An axis
@@ -37,27 +52,36 @@ In order to move an object exclusively across a single axis you can simply grab 
 - Blue arrow: Z-axis (vertical)
 - Green arrow: Y-axis (up/down)
 - Red arrow: X-axis (left/right)
-
-![Arrows of a move tool](images/moveToolArrows.png)
 </div>
 
 
+
+![Arrows of a move tool](images/moveToolArrows.png)
+
+
 ## Rotating <img class="icon" src="images/rotateToolIcon.png" alt="rotate Icon">
+
 <div class="information">
-The rotate tool allows you to change the orientation of objects in your scene.*
+The rotate tool allows you to change the orientation of objects in your scene.
+
+</div>
 
 ### Selecting the rotate tool
-To select the rotate tool, you can click the <img class="icon" src="images/rotateToolIcon.png" alt="rotate Icon"> location in the left toolbar, or press 'Shift+Space' followed by 'R'.
+
+To select the rotate tool, you can click the <img class="icon" src="images/rotateToolIcon.png" alt="rotate Icon"> location in the 
+left toolbar, or press 'Shift+Space' followed by 'R'.
 
 ### Quickly Rotating an object
+
 <div class="information">
-To quickly rotate an object in a scene, you can grab the circle in the center of an object and then drag to rotate it around its pivot point.</div>
+To quickly rotate an object in a scene, you can grab the circle in the center of an object and then drag to rotate it around its 
+pivot point.</div>
+
 
 ### Rotating Around an Axis
 <div class="information">
 
 To rotate an object around a specific axis, you can grab the corresponding arc representing that axis and then drag to rotate it around that axis. (Blue for the Z axis, Green for the Y axis, and Red for the X axis).
-
 </div>
 ![Arcs of a rotate tool](images/rotateToolArcs.png)
 
@@ -124,3 +148,5 @@ Below is a standard cube in the traditional blender project layout, in order to 
 If you want to ensure that the properties of an object stay the same regardless of other factors, you can lock the properties of an object by clicking on the "<img class="icon" src = "images\lockIcon.png">" icon to the side of the property. You can unlock the property at any time to continue editing by clicking on the "<img class="icon" src = "images\lockIcon.png">" icon again to unlock the property.
 
 
+
+[<<Table of Contents](README.md)
