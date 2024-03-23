@@ -119,7 +119,7 @@ Example:
 
 <div class= "information">
 
-Colors are based upon the blender logo, to keep style consistency with the brand logo of orange, and blue. The blues are to be kept to #265787,  and the oranges are to be kept to <span style="color: #e87d0d">#e87d0d. 
+Colors are based upon the blender logo, to keep style consistency with the brand logo of orange, and blue. The blues are to be kept to <span style="color: #265787;"> #265787 </span>,  and the oranges are to be kept to <span style="color: #e87d0d"> #e87d0d</span>. 
 
 <span style="color: #e87d0d;">Orange</span> <span style="background-color: #e87d0d; color: #e87d0d;">  . . . . </span> 
 

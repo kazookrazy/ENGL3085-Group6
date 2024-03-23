@@ -3,7 +3,7 @@
 
 [<<Table of Contents](README.md)
 
-## Overview
+# Overview
 
 One of the most common things you will have to do is precisely placing and moving objects for your projects, because blender is a 3d software there are a variety of ways to do this. 
 
