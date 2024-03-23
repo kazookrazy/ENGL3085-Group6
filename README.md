@@ -34,5 +34,8 @@ Project that provides technical documentation for the use of Blender
 - [Imports and Exports](import_export.md)
   - [Importing Files](import_export.md#importing-files)
   - [Exporting Files](import_export.md#exporting-files)
+- [Using Add-ons](addOns.md)
+  - [Enabling Add-ons](addOns.md)
+  - [Installing Add-ons](addOns.md)
 - [Style Guide](style.md)
 - [Sources](sources.md)
