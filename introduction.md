@@ -3,8 +3,6 @@
 
 [<<Table of Contents](README.md)
 
-
-
 # Introduction
 
 ## Product Summary
@@ -21,7 +19,11 @@ Having an audience that was using the software already also allowed our images t
 
 
 ## Content
+In terms of content that we could include in this documentation, the possibilities for what we could demonstrate was quite large. If we were to include every feature included in Blender, we would likely end with a document with well over a thousand pages. Therefore, we had to limit what we demonstrated for the sake of time.
 
+Most of our research was conducted by consulting the Official Blender Manual provided by Blender itself. While we did use our own experience with the application to formulate many ideas in regards to this technical document, the Blender Manual was an invaluable reference while writing.
+
+We selected features based on what we deemed as basic functions any user of Blender would need based on our own experience with the application. This is why we included features like the import and export functions, rendering, basic transformation tools, and settings configuration. Other tools, like the boolean modifier, sculpting tool, armature bones and add-ons were included to demonstrate some of the more complex functions of Blender so that our audience would be able to get a preview into what Blender is really capable of as a 3D modeling and animation tool. 
 
 ## Appearance
 When it came to formatting a few key priorities were immediately set, the document should be accessible, easily read, and consistent. Luckily these goals all tend to feed into each other. We started by choosing the color palette, for this we wanted to ensure that the colors were accessible for people like me (Ethan) that are colorblind wont struggle with the colors chosen. For heading we choose to mic the blender logos official colors, <span style="color: #265787;"> #265787 </span>  and  <span style="color: #e87d0d"> #e87d0d</span>. For in image labeling we went with the most distinct red you can get (<span style="color: #265787;"> #265787 </span>,  and the oranges are to be kept to <span style="color: #ff0000"> #ff0000</span>.) to ensure that it popped out against from blender grey color palette. Then for the color of the text of the body we went with traditional black on white. When it came to formatting we made sure to include plenty of distinct headers and sub-headers to maximize "skim-ability", as well as make it easier for people that struggle with low vision to keep track of where they are on a given page. 
@@ -47,7 +49,6 @@ In weaving these ethical considerations into our documentation, we not only aime
 
 
 We loved this opportunity to reality structure out a more long form document, and really build out an entire project from the perspective from a users perspective. It was super fun to watch as the decisions for who we wrote this for informed each and every decision as we built out the project. From the format, to the features covered, to the formatting. 
-
 
 If we were to do it again I would have loved to interview some people that are involved in robotics to see what information is presently helpful, as well as what information they struggled to understand when they started out doing robotics when it came to 3d modeling. Knowing where they are coming from might have changed the way we tackled things, as well as what we tackled. I'm very glad with what we covered however there is only so much you can get from an outside perspective
 

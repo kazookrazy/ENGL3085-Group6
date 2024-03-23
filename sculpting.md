@@ -10,7 +10,7 @@ This tutorial goes demonstrates Blender's basic sculpting tools and how to use t
 1. [Setup](#setup)
 2. [The Sculpting Mode](#the-sculpting-mode)
 3. [Sculpting Tool Settings](#sculpting-tools-settings)
-3. [Using a Sculpting Tool](#using-a-sculpting-tool)
+4. [Using a Sculpting Tool](#using-a-sculpting-tool)
 
 This tutorial assumes that you have basic knowledge of [navigating the viewport](https://youtu.be/ILqOWe3zAbk?si=7SHFtHqRjD0HJ4d0), [UI](https://youtu.be/8XyIYRW_2xk?si=zj8Ny7yR1xVeKAYQ), and [selecting/transforming objects](https://youtu.be/hTL6AKR8YDs?si=xMJa8COjAnLb22Wz) in Blender. If you would like a more comprehensive tutorial experience, I would suggest watching Blender's ["Fundamentals" YouTube series](https://youtube.com/playlist?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6&si=a-3UHM_G6K4EPjtN).
 
