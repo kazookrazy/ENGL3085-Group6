@@ -37,4 +37,9 @@ Additionally for the body text we choose to have 2 separate font styles for info
 ## Experience
 
 
+We loved this opportunity to reality structure out a more long form document, and really build out an entire project from the perspective from a users perspective. It was super fun to watch as the decisions for who we wrote this for informed each and every decision as we built out the project. From the format, to the features covered, to the formatting. 
 
+
+If we were to do it again I would have loved to interview some people that are involved in robotics to see what information is presently helpful, as well as what information they struggled to understand when they started out doing robotics when it came to 3d modeling. Knowing where they are coming from might have changed the way we tackled things, as well as what we tackled. I'm very glad with what we covered however there is only so much you can get from an outside perspective
+
+This project was an amazing experience that was awesome as a kind of perspective shift into a much more user focused approach, as well as how those things, and having a clear end user really ease the collaborative process, and make it much more fulfilling to build out these things as the end user is always kept to the forefront of our minds.
