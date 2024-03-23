@@ -3,9 +3,16 @@
 [<<Table of Contents](README.md)
 
 # Settings Configuration
-**Written by: Grant Nelson**
+*Written by: Grant Nelson*
 
-Welcome to the Blender configuration guide, designed to optimize your 3D modeling and animation workflow. This guide will cover the most essential configuration settings and adjustments.
+# Summary
+This guide provides instructions for configuring preference settings in Blender to enhance the 3D modeling and animation workflow. Key areas covered include:
+
+- [Preferences Menu](#accessing-preferences-menu): Working through Blender's preferences settings to start customization.
+- [Configuring Peripherals](#configuring-peripherals): Tailoring display and input device settings for optimal use of Blender’s features.
+- [Defaults](#defaults): Managing startup files and factory settings to maintain a consistent working environment.
+
+By customizing these settings, users can streamline their workflow, improve project organization, and improve their personal interactions with Blender.
 
 ## Accessing Preferences Menu
 
