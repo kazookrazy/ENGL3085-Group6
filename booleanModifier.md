@@ -15,50 +15,59 @@ This tutorial assumes that you have basic knowledge of [navigating the viewport]
 
 
 ## Setup
-1. Start a new project in Blender. The project should open to the basic cube, camera, and light.
+1. **Start a new project** in Blender. The project should open to the basic cube, camera, and light.
     + Ensure that the **Layout** tab is selected.
 ![Layout Tab Boxed in Red](images/start_with_layout_box.png)
 2. Select the **Add Cube** tool
 ![Cube Tool Boxed in Red](images/start_with_addcube_box.png)
-3. Create a cube that is *smaller* than the cube that was made on project creation. To use the Add Cube tool:
-    1. Click and drag anywhere in the viewport. Hold left shift to keep the selection square. Release the click when you have reached the desired size.
-    2. Hold shift again and click to create a perfect cube!
+3. **Create a cube** that is *smaller* than the cube that was made on project creation. To use the Add Cube tool:
+    1. Click and drag anywhere in the viewport. **Hold left shift** to keep the selection square. Release the click when you have reached the desired size.
+    2. **Hold left shift again** and **click** to create a perfect cube!
     3. If you mess up at any point, use <code>Ctrl+Z</code> or <code>Cmd+Z</code> to undo what you have done
 If done correctly, you should have something similar to the following:
 ![Two cubes](images/two_cubes.png)
-4. Move the smaller cube to intersect with the other cube. You can intersect it in any way, as long as they do.
+4. **Move** the smaller cube to intersect with the other cube. You can intersect it in any way, as long as they do.
 
 ## Enabling the Boolean Modifier
 Once done with [setup](#setup), you can now add the boolean modifier to you shape.
-1. First, select the bigger box by either clicking on it in the viewport or by clicking on its name in the top-right **Scene Collection** tab. Its name should just be "Cube" (not Cube.001).
+1. First, **select the bigger box** by either clicking on it in the viewport or by clicking on its name in the top-right **Scene Collection** tab. Its name should just be "Cube" (not Cube.001).
 ![Selected Cube](images/select_cube_t.png)
-2. On the right side of the screen, underneath the **Scene Collection** section, you should see a pane with several tabs. Select the **Modifiers** pane with icon <img src = "images/modifierIcon.png" class="icon">
-3. On the Modifiers screen, click the "Add Modifier" button.
-4. Once clicked, you should see the modifier creation menu (shown below). Once here, use the search bar to search "boolean". Click the first result.
+2. On the right side of the screen, underneath the **Scene Collection** section, you should see a pane with several tabs. **Select the Modifiers pane** with icon <img src = "images/modifierIcon.png" class="icon">
+3. On the Modifiers screen, **click** the "Add Modifier" button.
+4. Once clicked, you should see the modifier creation menu (shown below). Once here, **use the search bar to search the word "boolean".** Click the first result.
 ![Modifier menu](images/cropped-modifier-menu.png)
-5. You now have a boolean modifier added to "Cube". Now you must relate "Cube" (your larger cube) to "Cube.001" (your smaller cube). To do this, in the modifier you created, click the "Object" field. Then select "Cube.001".
+5. You now have a boolean modifier added to "Cube". Now you must relate "Cube" (your larger cube) to "Cube.001" (your smaller cube). To do this:
+    1. In the modifier you created, **click** the "Object" field.
+    2. **Select** "Cube.001".
 ![Object submenu](images/select-obj-modifier.png)
-6. The two objects are now related! Now you can start creating specialized shapes.
+
+The two objects are now related! Now you can start creating specialized shapes.
 
 ## Boolean Modes and how to view the modified shape
 Now that [setup](#setup) is complete and the [boolean modifier](#enabling-the-boolean-modifier) has been enabled, we are now ready to test and view each mode. We will start by figuring out how to view the modified shape.
 
-**Please try each of the following:**
 ### Viewing the shape and Difference Mode
-Since the shape is now modified, it doesn't appear any different currently. This is because the object "Cube" is related to (Cube.001) is still visible. To turn it invisible, click the eye icon  <img src = "images/eye_icon.png" class="icon"> next to "Cube.001" in the **Scene Collection** window. If done correctly, you should see something like this:
+Since the shape is now modified, it doesn't appear any different currently. This is because the object "Cube" is related to "Cube.001" is still visible. To turn it invisible: 
+1. **Click** the eye icon  <img src = "images/eye_icon.png" class="icon"> next to "Cube.001" in the **Scene Collection** window. If done correctly, you should see something like this:
 ![Cube.001 Invisible](images/cube001_invis.png)
-As you can see, "Cube" is now indented where "Cube.001" is! This is the result of the Difference mode for the Boolean modifier. The shape is now "Cube" minus "Cube.001" (Cube - Cube.001), which results in what you see above.
+As you can see, "Cube" is now indented where "Cube.001" is! This is the result of the Difference mode for the Boolean modifier, which is the default mode. The shape is now "Cube" minus "Cube.001" (Cube - Cube.001), which results in what you see above.
 ### Union Mode
-To select Union Mode, simply select "Cube" (the larger cube) and go back to the **Modifiers** <img src = "images/modifierIcon.png" class="icon"> menu, and select the "Union" option in the Boolean Modifier you created.
+To select Union Mode:
+1. **Select** "Cube" (the larger cube) 
+2. Go back to the **Modifiers** <img src = "images/modifierIcon.png" class="icon"> menu
+3. **Select** the "Union" option in the Boolean Modifier you created.
 ![Union Selected](images/union-selected.png)
 Under the Union Mode, it seems that "Cube.001" has reappeared. This is because the Union Mode displays anything that is "Cube" or "Cube.001" (Cube OR Cube.001).
 ### Intersect Mode
-To select Intersect Mode, simply select "Cube" (the larger cube) and go back to the **Modifiers** <img src = "images/modifierIcon.png" class="icon"> menu, and select the "Intersect" option in the Boolean Modifier you created.
+To select Intersect Mode: 
+1. **Select** "Cube" (the larger cube) 
+2. Go back to the **Modifiers** <img src = "images/modifierIcon.png" class="icon"> menu
+3. **Select** the "Intersect" option in the Boolean Modifier you created.
 ![Intersect Selected](images/intersect-selected.png)
 Under the Intersect Mode, there is only a small object that remains. This is because the Intersect Mode displays anything that is in the intersection of "Cube" and "Cube.001" (Cube AND Cube.001).
 
 After trying the different modes, you should have something similar to the last screenshot on your screen. This is the end of the tutorial! 
 
-[Back to Top](#boolean-modifier)
-
 [<<Table of Contents](README.md)
+
+[Back to Top](#boolean-modifier)

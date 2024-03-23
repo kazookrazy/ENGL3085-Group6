@@ -1,3 +1,7 @@
+<link rel="stylesheet" href="style.css">
+
+[<<Table of Contents](README.md)
+
 # Introduction
 ## Product Summary
 Our product that we have chosen to write up documentation for is Blender. Blender is a free and open source 3D creation suite. Blender supports the entirety of 3D creation. This includes modeling, rigging, animation, simulation, rendering, composition, motion tracking and video editing. Blender is a very powerful tool that is commonly used for 3D structure modeling and game animation and resource creation. 
