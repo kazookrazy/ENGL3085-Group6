@@ -33,6 +33,15 @@ Additionally for the body text we choose to have 2 separate font styles for info
 
 ## Ethics
 
+In crafting the documentation for Blender, we attempted to maintain our awareness of our ethical obligations to our audience. That awareness helped us design our manual in a way that was ethically consistent with the vision regarding the content we wanted to create.
+
+Acknowledging the diversity and expertise of our audience, we aimed to present information that was not only accurate but also respectful and inclusive. For instance, in discussing Blender's features, we emphasized clear, detailed explanations to prevent any misunderstandings. One part of our manual that shows this is in the beginning of 'Settings Configuration''s 'Preferences Menu' section, where we establish a base level of understanding by saying "To navigate to the the Preferences menu, access `Edit > Preferences' using the navigation bar at the top of the screen." This passage illustrates our commitment to detailed explanations, ensuring that users, regardless of experience, can follow and work with our manual.
+
+Accessibility was another crucial ethical consideration. We endeavored to make our documentation inclusive, catering to users with various needs, including those with disabilities. An example of this is our detailed image descriptions and use of 'alt tags' which were designed to be screen reader friendly. A relevant section that shows this would be in the Armature Bones section, where we include a descriptive alt tag for each image included in the section. Many of these images are just displays of menu selections, with titles like "Add Armature Men" and "Edit Mode". These alt tags show our dedication to accessibility across a wide, inclusive audience.
+
+Intellectual property respect formed a cornerstone of our ethical approach. In line with Blender’s open-source ethos, we carefully credited sources when used, linking to each of them in our Sources page. These links can be easily viewed by going to that page, and we hyperlink to each source to ensure that we appropriately direct traffic and credit to the useful documents contained there.
+
+In weaving these ethical considerations into our documentation, we not only aimed to educate users on Blender’s functionalities but also to subconsiously instill a sense of inclusivity and responsibility. Our goal was to empower users across a wide range of backgrounds to leverage Blender's capabilities ethically and effectively, helping to foster a community around the open-source software that values the things that open-source attempts to encourage in its design.
 
 ## Experience
 
